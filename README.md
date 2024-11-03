@@ -21,7 +21,7 @@ Este projeto é um dashboard de aplicativo web desenvolvido para realizar uma an
 
 ## Repositório do Projeto
 
-O código-fonte deste projeto está disponível no GitHub: [Car Sales Dashboard](https://github.com/GrayWaeger/car-sales-dashboard)
+O código-fonte deste projeto está disponível no GitHub: [Car Sales Dashboard](https://github.com/GrayWaeger/car-sales-dashboard.git)
 
 ## Aplicativo no Render
 
